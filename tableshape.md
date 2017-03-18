@@ -1,3 +1,8 @@
+---
+tagline: table structure/schema checking, type checking
+license: MIT
+---
+
 # tableshape
 
 Luapower adapted package from https://github.com/leafo/tableshape
